@@ -24,7 +24,7 @@ const RightArrow = () => {
       <img src={RightArrowIcon} alt="right-arrow" />
     </Typography>
   );
-};
+};  
 
 
 
